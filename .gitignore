@@ -112,3 +112,19 @@ XNodeEditor.csproj
 00.ImportAssets
 *.idea*
 *_Recovery*
+
+
+# Firebase
+# Firebase 구성 파일 (Android/iOS용)
+google-services.json
+GoogleService-Info.plist
+
+# Firebase 로컬 에뮬레이터 데이터 및 설정
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+
+# Firebase Crashlytics 관련 파일
+# 이미 crashlytics-build.properties가 포함되어 있다면 아래 항목은 중복될 수 있습니다.
+crashlytics-symbols.zip
+/[Aa]ssets/[Ff]irebase/Plugins/

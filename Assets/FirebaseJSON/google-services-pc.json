@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "878445036847",
+    "firebase_url": "https://cnswkgame2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cnswkgame2",
+    "storage_bucket": "cnswkgame2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878445036847:android:4feb6739b3ec5c1e540dda",
+        "android_client_info": {
+          "package_name": "com.SadSmile.cnswk_Game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzOk5dpM-OazQaKNPfVfeNdGqMxg7fxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
