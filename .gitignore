@@ -112,3 +112,5 @@ XNodeEditor.csproj
 00.ImportAssets
 *.idea*
 *_Recovery*
+
+firebase
